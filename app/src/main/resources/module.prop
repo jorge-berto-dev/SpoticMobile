@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <namespace>SpoticMobile</namespace>
+    <package name="com.spoticmobile" />
+    <name>SpoticMobile</name>
+    <description>Spicetify for Android - Premium features, themes, and customization for Spotify Mobile</description>
+    <author>SpoticMobile</author>
+    <version>1.0.0</version>
+    <requirements>
+        <feature type="lsposed" />
+    </requirements>
+</module>

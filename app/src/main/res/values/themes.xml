@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SpoticMobile" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#7B68EE</item>
+        <item name="colorPrimaryVariant">#6C5CE7</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#00FF88</item>
+        <item name="colorOnSecondary">#000000</item>
+        <item name="android:statusBarColor">#0A0A0A</item>
+    </style>
+</resources>
