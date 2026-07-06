@@ -31,6 +31,12 @@ android {
     }
 }
 
+repositories {
+    google()
+    mavenCentral()
+    jcenter() // For Xposed API
+}
+
 dependencies {
     compileOnly("de.robv.android.xposed:api:82")
     implementation("com.squareup.okhttp3:okhttp:4.12.0")
